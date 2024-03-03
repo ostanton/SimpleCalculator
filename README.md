@@ -1,5 +1,5 @@
 # SimpleCalculator
-A remake of my Nim calculator but in C++ with wxWidgets.
+A remake of my Nim calculator but in C++ with [wxWidgets](https://www.wxwidgets.org/ "wxWidgets Homepage").
 
 Here is a fancy image of it!
 
